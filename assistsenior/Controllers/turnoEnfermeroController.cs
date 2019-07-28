@@ -26,6 +26,11 @@ namespace AssistSenior.Controllers
 
 
 		}
+
+        [HttpPut]
+        public void Put() {
+
+        }
 	}
 }
   
