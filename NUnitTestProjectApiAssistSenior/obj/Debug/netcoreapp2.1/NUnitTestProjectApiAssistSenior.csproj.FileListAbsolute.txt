@@ -9,10 +9,6 @@ F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProje
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\Persistencia.dll
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.Optimization.dll
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.Http.dll
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Net.Http.Formatting.dll
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.Http.WebHost.dll
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\EntityFramework.dll
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\Microsoft.Web.Infrastructure.dll
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.WebPages.dll
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.dll
@@ -24,19 +20,12 @@ F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProje
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\Persistencia.dll.config
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.Optimization.xml
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.Mvc.xml
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.Http.xml
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Net.Http.Formatting.xml
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.Http.WebHost.xml
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\EntityFramework.xml
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.WebPages.xml
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.WebPages.Razor.xml
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.Razor.xml
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\System.Web.WebPages.Deployment.xml
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\es\System.Web.Optimization.resources.dll
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\es\System.Web.Mvc.resources.dll
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\es\System.Web.Http.resources.dll
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\es\System.Net.Http.Formatting.resources.dll
-F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\es\System.Web.Http.WebHost.resources.dll
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\es\System.Web.WebPages.resources.dll
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\es\System.Web.WebPages.Razor.resources.dll
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\es\System.Web.Razor.resources.dll
@@ -46,3 +35,6 @@ F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProje
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\obj\Debug\netcoreapp2.1\NUnitTestProjectApiAssistSenior.AssemblyInfoInputs.cache
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\obj\Debug\netcoreapp2.1\NUnitTestProjectApiAssistSenior.AssemblyInfo.cs
 F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\obj\Debug\netcoreapp2.1\NUnitTestProjectApiAssistSenior.csproj.CopyComplete
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\bin\Debug\netcoreapp2.1\NUnitTestProjectApiAssistSenior.pdb
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\obj\Debug\netcoreapp2.1\NUnitTestProjectApiAssistSenior.dll
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\NUnitTestProjectApiAssistSenior\obj\Debug\netcoreapp2.1\NUnitTestProjectApiAssistSenior.pdb

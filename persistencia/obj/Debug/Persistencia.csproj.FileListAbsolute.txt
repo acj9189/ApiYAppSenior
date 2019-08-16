@@ -36,3 +36,22 @@ C:\Users\Julie Rios\Dropbox\DevelopCrew - Software 3 2019-01\WebService\Persiste
 C:\Users\Julie Rios\Dropbox\DevelopCrew - Software 3 2019-01\WebService\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
 C:\Users\Julie Rios\Dropbox\DevelopCrew - Software 3 2019-01\WebService\Persistencia\obj\Debug\Persistencia.dll
 C:\Users\Julie Rios\Dropbox\DevelopCrew - Software 3 2019-01\WebService\Persistencia\obj\Debug\Persistencia.pdb
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\Persistencia.dll.config
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\Persistencia.dll
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\Persistencia.pdb
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\BouncyCastle.Crypto.dll
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\EntityFramework.dll
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\Google.Protobuf.dll
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\MySql.Data.dll
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\MySql.Data.EntityFramework.dll
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\EntityFramework.xml
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\Google.Protobuf.xml
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\MySql.Data.xml
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\bin\Debug\MySql.Data.EntityFramework.xml
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\obj\Debug\Persistencia.dll
+F:\Programacion\C#\ProyectoSoftIII\ApiIngeSoftware3\ApiYAppSenior\Persistencia\obj\Debug\Persistencia.pdb

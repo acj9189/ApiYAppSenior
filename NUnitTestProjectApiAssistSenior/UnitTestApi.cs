@@ -58,29 +58,29 @@ namespace Tests
          * Casos de Prueba para el metdo put de la Api...
          */
 
-        [Test]
-        public void cadoPruebaPutEnfermeroApiEqual()
-        {
-            Assert.Pass();
-        }
+        //[Test]
+        //public void cadoPruebaPutEnfermeroApiEqual()
+        //{
+        //    Assert.Pass();
+        //}
  
-        [Test]
-        public void cadoPruebaPutEnfermeroApiEqualNull()
-        {
-            Assert.Pass();
-        }
+        //[Test]
+        //public void cadoPruebaPutEnfermeroApiEqualNull()
+        //{
+        //    Assert.Pass();
+        //}
 
-        [Test]
-        public void cadoPruebaPutEnfermeroApiException()
-        {
-            Assert.Pass();
-        }
+        //[Test]
+        //public void cadoPruebaPutEnfermeroApiException()
+        //{
+        //    Assert.Pass();
+        //}
 
-        [Test]
-        public void cadoPruebaPutEnfermeroApiDatoNOValido()
-        {
-            Assert.Pass();
-        }
+        //[Test]
+        //public void cadoPruebaPutEnfermeroApiDatoNOValido()
+        //{
+        //    Assert.Pass();
+        //}
 
         private List<turnoEnfermero> consulta() {
             assistseniorEntities BD = new assistseniorEntities();
